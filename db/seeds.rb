@@ -1,3 +1,5 @@
+Spice.destroy_all
+
 puts "🌱 Seeding spices..."
 
 # Spice Data from spicejungle.com
